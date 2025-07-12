@@ -1,3 +1,3 @@
-module github.com/romaromaromann/discordwebhook
+module github.com/gtuk/discordwebhook
 
 go 1.15
